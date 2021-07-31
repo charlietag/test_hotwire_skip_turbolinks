@@ -2,7 +2,7 @@
 
 ## Test hotwire
 
-* webpack
+* webpack (without turbolinks installed)
 * https://hotwired.dev/
 
 * test name
